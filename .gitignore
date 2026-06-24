@@ -14,3 +14,4 @@ data/
 
 # Environment files
 .env
+/data
